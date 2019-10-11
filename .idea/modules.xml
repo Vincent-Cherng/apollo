@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../apollo-common/apollo-common.iml" filepath="$PROJECT_DIR$/../apollo-common/apollo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apollo-parent/apollo-parent.iml" filepath="$PROJECT_DIR$/../apollo-parent/apollo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apollo-user-web.iml" filepath="$PROJECT_DIR$/apollo-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apollo-user-web-api/apollo-user-web-api.iml" filepath="$PROJECT_DIR$/apollo-user-web-api/apollo-user-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apollo-user-web-controller/apollo-user-web-controller.iml" filepath="$PROJECT_DIR$/apollo-user-web-controller/apollo-user-web-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apollo-user-web-dao/apollo-user-web-dao.iml" filepath="$PROJECT_DIR$/apollo-user-web-dao/apollo-user-web-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apollo-user-web-service/apollo-user-web-service.iml" filepath="$PROJECT_DIR$/apollo-user-web-service/apollo-user-web-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apollo-common" />
+        <module name="apollo-user-web-api" />
+        <module name="apollo-user-web-controller" />
+        <module name="apollo-user-web-dao" />
+        <module name="apollo-user-web-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apollo-common" target="1.8" />
+      <module name="apollo-parent" target="1.8" />
+      <module name="apollo-user-web" target="1.8" />
+      <module name="apollo-user-web-api" target="1.8" />
+      <module name="apollo-user-web-controller" target="1.8" />
+      <module name="apollo-user-web-dao" target="1.8" />
+      <module name="apollo-user-web-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
